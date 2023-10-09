@@ -23,4 +23,4 @@ This work was supported by he European Commission CEF Programme by means of the 
 
 
 ## License
-This material is licensed undet the GNU Lesser General Public License v3.0 whose full text may be found at: [LICENSE](https://github.com/lauramartingonzalezzz/DQAssessment/blob/276ce4584e8af1c20ee42406a8fd6b07d39b3a17/LICENSE)
+This material is licensed undet the GNU Lesser General Public License v3.0 whose full text may be found at: [LICENSE](https://github.com/lauramartingonzalezzz/DQAssessment/blob/4869be148134f43e93cc81ab0ef0cd1e9d769a82/LICENSE)
