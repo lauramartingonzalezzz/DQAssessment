@@ -1,1 +1,1 @@
-*/raw_data* contains the dataset used prior to its assessment. (data is compressed in a zip file)
+*/raw_data* contains the dataset used prior to its assessment. (data can be downloaded [here](https://unican-my.sharepoint.com/:u:/g/personal/martingonl_unican_es/EeZ8K_njdbhOhpQz-sxQTLkBArLUzHXA1qjjAZBcwuzHIA?e=lZ5jFP))
