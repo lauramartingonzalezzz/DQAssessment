@@ -11,7 +11,7 @@ This repository comprises 9 files and 3 folders:
 - *context_broker_api.py* is a Python script that defines the API requests needed to interact with the Context Broker.
 - *requirements.txt* is the standard file listing the PyPI packages to be installed.
 - *README.md* is this documentation.
-- */raw_data* contains the dataset used prior to its assessment.
+- */raw_data* contains the dataset used prior to its assessment. (data is compressed in a zip file)
 - */data* is an empty folder tree which will be filled in as the *AI-enabled_data_quality_improvement_techniques.ipynb* script is run.
 - */simulations* is an empty folder tree which will contain a subfolder for each of the Monte Carlo simulations obtaining the delay in the quality dimensions processes (*DQ_dimensions_performance.py*). It also includes an empty subfolder named */median_values*, where some of the results of the Matlab script (*main.m*) will be stored for later use in the Jupyter notebook *DQ_dimensions_performance.ipynb*.
 
