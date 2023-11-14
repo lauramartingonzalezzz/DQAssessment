@@ -19,8 +19,8 @@ This repository comprises 9 files and 3 folders:
 
 ## Acknowledgements
 
-This work was supported by he European Commission CEF Programme by means of the project SALTED ‘‘Situation-Aware Linked heTerogeneous Enriched Data’’ under the Action Number 2020-EU-IA-0274 and by the Spanish State Research Agency (AEI) by means of the project SITED ‘‘Semantically-enabled Interoperable Trustworthy Enriched Data-spaces’’ under Grant Agreement No. PID2021-125725OB-I00.
+This work was supported by the European Commission CEF Programme by means of the project SALTED ‘‘Situation-Aware Linked heTerogeneous Enriched Data’’ under the Action Number 2020-EU-IA-0274 and by the Spanish State Research Agency (AEI) by means of the project SITED ‘‘Semantically-enabled Interoperable Trustworthy Enriched Data-spaces’’ under Grant Agreement No. PID2021-125725OB-I00.
 
 
 ## License
-This material is licensed undet the GNU Lesser General Public License v3.0 whose full text may be found at: [LICENSE](https://github.com/lauramartingonzalezzz/DQAssessment/blob/4869be148134f43e93cc81ab0ef0cd1e9d769a82/LICENSE)
+This material is licensed under the GNU Lesser General Public License v3.0 whose full text may be found at: [LICENSE](https://github.com/lauramartingonzalezzz/DQAssessment/blob/4869be148134f43e93cc81ab0ef0cd1e9d769a82/LICENSE)
